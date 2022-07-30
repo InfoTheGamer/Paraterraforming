@@ -19,6 +19,7 @@ UPDATING:
 
 CHANGELOG:
 **v0.2:**
+
 - First official release!
 - Fixed Star Truss
 - Added scaling to all truss parts
