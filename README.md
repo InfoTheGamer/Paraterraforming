@@ -18,6 +18,7 @@ UPDATING:
 - Completely delete the GameData/Paraterraforming folder and then reinstall.
 
 CHANGELOG:
+
 **v0.2:**
 
 - First official release!
