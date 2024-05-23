@@ -17,6 +17,9 @@ INSTALLATION:
 UPDATING:
 - Completely delete the GameData/Paraterraforming folder and then reinstall.
 
+FORUM LINK:
+https://forum.kerbalspaceprogram.com/topic/209162-paraterraforming-mod/
+
 CHANGELOG:
 
 **v0.2:**
@@ -42,4 +45,4 @@ CHANGELOG:
 
 Built for the KSP community, 2022.
 
-Will be featured in projekt inspiRE, release Summer 2022.
+Will be featured in projekt inspiRE, release soon
